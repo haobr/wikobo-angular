@@ -1,0 +1,19 @@
+.custom-color {
+    background-color: #102027!important;
+}
+
+a.navbar-brand, li.nav-item > a {
+    color: white !important;
+}
+
+a:hover, li.nav-item > a:hover, .header-btn>a:hover {
+    background-color: #3c6b7f !important;
+    border-radius: 2px;
+}
+
+.header-btn {
+    margin: 0px 5px 0px 5px;
+    color: white;
+    text-decoration: none;
+}
+
